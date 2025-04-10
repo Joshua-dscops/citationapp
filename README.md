@@ -29,7 +29,7 @@ Un Dockerfile définit l'environnement pour construire une image Docker, tandis 
 
 Quels sont les avantages de séparer les services dans une architecture Docker ?
 
-Séparer les services permet d'isoler les composants, de faciliter la scalabilité et la maintenance des conteneurs.
+Séparer les services dans une architecture Docker permet d'isoler les composants, de faciliter la scalabilité et la maintenance des conteneurs.
 
 En quoi Docker Compose facilite-t-il le travail en équipe et le déploiement ?
 
