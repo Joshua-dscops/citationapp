@@ -13,7 +13,7 @@ Cette application affiche une citation aléatoire.
 
 ## 🚀 Lancer le projet
 
-Assurez-vous d’avoir Docker Desktop installé
+Assurez-vous d’avoir Docker Desktop installé.
 
 ```bash
 git clone https://github.com/Joshua-dscops/citationapp.git
