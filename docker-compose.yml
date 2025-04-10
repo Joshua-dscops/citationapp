@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  backend:
+    image: josdocker339/backendquotes:latest
+    ports:
+      - "5000:5000"
+    networks:
+      - mynetwork
+
+  frontend:
+    image: josdocker339/frontendquotes:latest
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+    networks:
+      - mynetwork
+
+networks:
+  mynetwork:
+    driver: bridge
