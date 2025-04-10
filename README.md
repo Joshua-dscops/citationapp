@@ -19,6 +19,7 @@ Assurez-vous d’avoir Docker Desktop installé
 git clone https://github.com/Joshua-dscops/citationapp.git
 cd citationapp
 docker-compose up
+```
 
 ## Questions de réflexion
 
