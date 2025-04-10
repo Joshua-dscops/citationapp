@@ -25,7 +25,7 @@ docker-compose up
 
 Quelle différence fais-tu entre un Dockerfile et un docker-compose.yml ?
 
-Un Dockerfile définit l'environnement pour construire une image Docker, tandis que docker-compose.yml orchestre plusieurs services Docker dans un environnement multi-conteneurs.
+Un Dockerfile définit l'environnement pour construire une image Docker, tandis que docker-compose.yml orchestre plusieurs services (comment ils interagissent et sont configurés) Docker dans un environnement multi-conteneurs.
 
 Quels sont les avantages de séparer les services dans une architecture Docker ?
 
