@@ -33,8 +33,8 @@ Séparer les services permet d'isoler les composants, de faciliter la scalabilit
 
 En quoi Docker Compose facilite-t-il le travail en équipe et le déploiement ?
 
-Docker Compose permet de définir et partager des environnements cohérents, simplifiant la gestion des dépendances et le déploiement.
+Docker Compose facilite le travail en équipe et le déploiement car il permet de définir et partager des environnements cohérents, simplifiant la gestion des dépendances et le déploiement.
 
 Pourquoi est-il utile de publier une image sur Docker Hub même pour un projet perso ?
 
-Publier une image sur Docker Hub permet un accès facile, le partage et la réutilisation de l'image entre différentes machines et utilisateurs, même pour un projet personnel.
+Publier une image sur Docker Hub est utile car il permet un accès facile grâce au partage et la réutilisation de l'image entre différentes machines et utilisateurs, même pour un projet personnel.
